@@ -99,3 +99,7 @@
     background-color: #F3B700 !important;
     color: #fff !important;
 }
+
+img.spotlight {
+  border-radius: 0;
+}
