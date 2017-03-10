@@ -1,0 +1,101 @@
+._2md {
+    border-radius: 50%;
+}
+
+._2s1x ._2s1y {
+    background-color: #2d2d2d;
+    border-bottom: 1px solid #555555;
+}
+
+._5vb_,
+._5vb_ #contentCol {
+    background-color: #efefef;
+}
+
+._585- {
+    transition: all .3s;
+    background-color: #ddd;
+    border: 1px solid #777;
+    border-radius: 5px;
+}
+
+._585-:hover,
+._585-:focus {
+    background-color: #fff;
+}
+
+._38vo img,
+._55lq img,
+._ohe img,
+._2s25 img {
+    border-radius: 50%;
+}
+
+._38vo:after,
+._55lq:after,
+.img:after,
+._2s25:after {
+    border-radius: 50%;
+}
+
+._3z_5 {
+    border-radius: 1em;
+    min-width: 6px;
+    padding: 1px 4px;
+}
+
+._4-u2 {
+    box-shadow: 1px 1px 3px rgba(100, 100, 100, .1);
+}
+
+._6ks img {
+    border-radius: 2px;
+}
+
+.accessible_elem {
+    min-width: 6px;
+}
+
+.fbxWelcomeBoxSmallRow,
+._5afe {
+    transition: all .3s !important;
+}
+
+.fbxWelcomeBoxSmallRow:hover,
+._5afe:hover {
+    background-color: rgb(64, 128, 255) !important;
+    color: #fff !important;
+}
+
+.fbxWelcomeBoxSmallRow:hover a {
+    color: #fff !important;
+}
+
+._ohf ._585- ._4w98._4w97,
+._ohf ._585- ._4w98._4w97:hover,
+._4jy1 {
+    border-radius: 1em;
+    transition: all .3s;
+    background-color: #EF476F;
+    border: 1px solid #ccc;
+}
+
+._585- ._4w98._4w97:hover {
+    transition: all .3s;
+    background-color: #EF476F;
+}
+
+._4jy1:hover {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    color: #EF476F;
+}
+
+._55ln {
+    transition: all .3s;
+}
+
+._55ln:hover {
+    background-color: #F3B700 !important;
+    color: #fff !important;
+}
