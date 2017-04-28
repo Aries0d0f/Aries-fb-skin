@@ -3,15 +3,21 @@
 }
 
 ._2s1x ._2s1y {
-    background-color: #2d2d2d;
+    background-color: #00B192;
     border-bottom: 1px solid #555555;
 }
 
 ._5vb_,
 ._5vb_ #contentCol {
-    background-color: #efefef;
+    background-color: #27282D;
 }
 
+#pagelet_navigation {
+ 	background-color: #eee;
+  	padding: .5em;
+  	border-radius: 3px;
+  	border: 2px solid #00B192;
+}
 ._585- {
     transition: all .3s;
     background-color: #ddd;
@@ -64,7 +70,7 @@
 .fbxWelcomeBoxSmallRow:hover,
 ._5afe:hover {
     background-color: rgb(64, 128, 255) !important;
-    color: #fff !important;
+    color: #000 !important;
 }
 
 .fbxWelcomeBoxSmallRow:hover a {
@@ -96,10 +102,25 @@
 }
 
 ._55ln:hover {
-    background-color: #F3B700 !important;
+    background-color: #00B192 !important;
     color: #fff !important;
 }
-
 img.spotlight {
   border-radius: 0;
+}
+
+a:after {
+  border: none !important;
+}
+
+.clearfix.sideNavItem.selectedItem {
+ 	background-color: #00B192 !important;
+}
+
+._3soc._5upp._42ft {
+ 	border-radius: 50%; 
+}
+
+*::selection {
+	background: rgba(0,177,146,.8) !important;
 }
